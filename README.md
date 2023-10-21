@@ -18,8 +18,8 @@ Pour plus de détails et de compréhension des résultats obtenus, j'ai aussi is
 
  * Températures moyennes du canton de Neuchâtel :
 
-![1_tempNE](img/1_tempNE.jpg)
+![1_tempNE](img/1_tempNE.JPG)
 
  * Précipitations moyennes du canton de Neuchâtel :
 
-![2_precNE](img/2_precNE.jpg)
+![2_precNE](img/2_precNE.JPG)
