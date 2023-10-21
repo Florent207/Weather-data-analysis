@@ -18,9 +18,8 @@ Pour plus de détails et de compréhension des résultats obtenus, j'ai aussi is
 <br>
 > Températures moyennes du canton de Neuchâtel :
 
-![image.png](img/1_tempNE.png)
+![tempNE](img/1_tempNE.png)
 
-<h1 style="color:#0b3fcd;font-size:33px">2. Les données</h1>
-<h2 style="color:#2c91ff;font-size:25px">2.1 Récupération des données</h2>
+> Précipitations moyennes du canton de Neuchâtel :
 
-Les données ont été récupérées sous format .txt depuis le site de la confédération dédié. Voici le lien : https://www.meteosuisse.admin.ch/home/climat/le-climat-suisse-en-detail/donnees-homogeneisees-depuis-1864.html
+![precNE](img/2_precNE.png)
