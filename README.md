@@ -14,12 +14,12 @@ Ceci afin de mettre en image la vitesse de ces évolutions, leurs tendances (né
 
 <h2 style="color:#2c91ff;font-size:25px">1.2 Aperçu des résultats</h2>
 J'ai travaillé sur deux données principales, les températures et les précipitations moyennes enregistrées dans les stations de Chaumont, de La Chaux-de-Fonds et de Neuchâtel. Avec ces bases, nous avons pu générer des moyennes des températures sur tout le canton, par station et par cycle été / hiver.
-Pour plus de détails et de compréhension des résultats obtenus, j'ai aussi isolé ces évolutions par cycle générationnel (20 ans) afin de repérer les hausses significatives.<br>
-<br>
-> Températures moyennes du canton de Neuchâtel :
+Pour plus de détails et de compréhension des résultats obtenus, j'ai aussi isolé ces évolutions par cycle générationnel (20 ans) afin de repérer les hausses significatives.<br><br>
+
+ * Températures moyennes du canton de Neuchâtel :
 
 ![1_tempNE](img/1_tempNE.jpg)
 
-> Précipitations moyennes du canton de Neuchâtel :
+ * Précipitations moyennes du canton de Neuchâtel :
 
 ![2_precNE](img/2_precNE.jpg)
